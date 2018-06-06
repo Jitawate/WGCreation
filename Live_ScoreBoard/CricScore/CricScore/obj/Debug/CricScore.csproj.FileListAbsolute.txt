@@ -1,0 +1,5 @@
+D:\WGCREATION\Cricket Score\CricScore\CricScore\bin\CricScore.dll
+D:\WGCREATION\Cricket Score\CricScore\CricScore\bin\CricScore.pdb
+D:\WGCREATION\Cricket Score\CricScore\CricScore\obj\Debug\CricScore.dll
+D:\WGCREATION\Cricket Score\CricScore\CricScore\obj\Debug\CricScore.pdb
+D:\WGCREATION\Cricket Score\CricScore\CricScore\obj\Debug\CricScore.csprojResolveAssemblyReference.cache
