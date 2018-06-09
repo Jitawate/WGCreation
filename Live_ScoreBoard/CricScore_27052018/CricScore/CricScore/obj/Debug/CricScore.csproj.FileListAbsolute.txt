@@ -8,3 +8,8 @@ D:\Jitendra\Projects\Live_ScoreBoard\CricScore_27052018\CricScore\CricScore\bin\
 D:\Jitendra\Projects\Live_ScoreBoard\CricScore_27052018\CricScore\CricScore\obj\Debug\CricScore.csprojResolveAssemblyReference.cache
 D:\Jitendra\Projects\Live_ScoreBoard\CricScore_27052018\CricScore\CricScore\obj\Debug\CricScore.dll
 D:\Jitendra\Projects\Live_ScoreBoard\CricScore_27052018\CricScore\CricScore\obj\Debug\CricScore.pdb
+D:\Jitendra\Projects\WGCreation\Live_ScoreBoard\CricScore_27052018\CricScore\CricScore\bin\CricScore.dll
+D:\Jitendra\Projects\WGCreation\Live_ScoreBoard\CricScore_27052018\CricScore\CricScore\bin\CricScore.pdb
+D:\Jitendra\Projects\WGCreation\Live_ScoreBoard\CricScore_27052018\CricScore\CricScore\obj\Debug\CricScore.csprojResolveAssemblyReference.cache
+D:\Jitendra\Projects\WGCreation\Live_ScoreBoard\CricScore_27052018\CricScore\CricScore\obj\Debug\CricScore.dll
+D:\Jitendra\Projects\WGCreation\Live_ScoreBoard\CricScore_27052018\CricScore\CricScore\obj\Debug\CricScore.pdb
